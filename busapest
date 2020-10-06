@@ -2,10 +2,10 @@
 <html>
 <title>Budapest</title>
 <body>
-<img src="budapest" alt="image">
+<img src="budapest.jpg" alt="budapest">
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Budapest egy nagyon szép város.</h1>
+<pp látn>Budapesten nagyon sok széi való van, nagyon sok féle képpen el lehet tölteni az időt. Pl.:Esztergom vagy visegrád.</p>
 
 </body>
 </html> 
